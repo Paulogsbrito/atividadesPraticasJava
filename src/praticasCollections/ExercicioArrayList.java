@@ -1,4 +1,4 @@
-package praticasCollectionArrayList;
+package praticasCollections;
 
 import java.util.ArrayList;
 import java.util.Scanner;
